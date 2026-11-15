@@ -1,0 +1,6 @@
+# participant data and output are not part of the repository
+data/*
+!data/README.md
+results/
+__pycache__/
+*.asv
