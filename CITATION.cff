@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "Analysis code: salivary and plasma cytokine kinetics during experimental human endotoxaemia"
+abstract: >-
+  MATLAB and Python code that makes the data figures and all tables of the article
+  "Salivary and plasma cytokine kinetics during experimental human endotoxaemia:
+  macrophage inflammatory protein-1α and -1β as candidate non-invasive biomarkers",
+  including a compartmental plasma-to-saliva model of ten cytokines fitted with
+  bootstrap uncertainty. Participant data are not included.
+type: software
+license: MIT
+version: 1.0.0
+authors:
+  - family-names: Relouw
+    given-names: Freek J. A.
+    affiliation: "Radboud university medical center, Nijmegen; Erasmus MC, Rotterdam; Eindhoven University of Technology, Eindhoven, the Netherlands"
+    orcid: "https://orcid.org/0009-0005-1826-6063"
+keywords:
+  - endotoxaemia
+  - saliva
+  - cytokines
+  - MIP-1alpha
+  - MIP-1beta
+  - pharmacokinetic modelling
+  - biomarkers
+preferred-citation:
+  type: article
+  title: "Salivary and plasma cytokine kinetics during experimental human endotoxaemia: macrophage inflammatory protein-1α and -1β as candidate non-invasive biomarkers"
+  journal: eBioMedicine
+  year: 2026
+  authors:
+    - family-names: Relouw
+      given-names: Freek J. A.
+      orcid: "https://orcid.org/0009-0005-1826-6063"
+    - family-names: Waalders
+      given-names: Nicole J. B.
+      orcid: "https://orcid.org/0000-0002-3828-2504"
+    - family-names: Koolen
+      given-names: Jarne
+      orcid: "https://orcid.org/0000-0002-3917-0467"
+    - family-names: Gerretsen
+      given-names: Jelle
+      orcid: "https://orcid.org/0000-0002-8935-7350"
+    - family-names: Taal
+      given-names: H. Rob
+      orcid: "https://orcid.org/0000-0002-7300-4577"
+    - family-names: Pickkers
+      given-names: Peter
+      orcid: "https://orcid.org/0000-0002-1104-4303"
+    - family-names: van Riel
+      given-names: Natal A. W.
+      orcid: "https://orcid.org/0000-0001-9375-4730"
+    - family-names: Kox
+      given-names: Matthijs
+      orcid: "https://orcid.org/0000-0001-6537-6971"
+  # doi: "10.xxxx/xxxxx"   # add after acceptance
